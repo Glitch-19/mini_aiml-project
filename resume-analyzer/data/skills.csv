@@ -1,0 +1,125 @@
+skill,category
+Python,technical
+Java,technical
+C++,technical
+C#,technical
+SQL,technical
+NoSQL,technical
+JavaScript,technical
+TypeScript,technical
+HTML,technical
+CSS,technical
+React,technical
+Angular,technical
+Vue.js,technical
+Node.js,technical
+Django,technical
+Flask,technical
+FastAPI,technical
+Spring Boot,technical
+.NET,technical
+REST APIs,technical
+GraphQL,technical
+Microservices,technical
+Git,technical
+GitHub Actions,technical
+CI/CD,technical
+Jenkins,technical
+Docker,technical
+Kubernetes,technical
+AWS,technical
+Azure,technical
+GCP,technical
+Terraform,technical
+Ansible,technical
+Linux,technical
+Bash,technical
+PostgreSQL,technical
+MySQL,technical
+MongoDB,technical
+Redis,technical
+Elasticsearch,technical
+Apache Spark,technical
+Hadoop,technical
+Kafka,technical
+Airflow,technical
+ETL,technical
+Data Warehousing,technical
+Data Modeling,technical
+Data Visualization,technical
+Tableau,technical
+Power BI,technical
+Excel,technical
+Pandas,technical
+NumPy,technical
+SciPy,technical
+scikit-learn,technical
+TensorFlow,technical
+PyTorch,technical
+Keras,technical
+XGBoost,technical
+LightGBM,technical
+MLflow,technical
+MLOps,technical
+Feature Engineering,technical
+NLP,technical
+Computer Vision,technical
+OpenCV,technical
+Transformers,technical
+Hugging Face,technical
+Time Series Analysis,technical
+Statistics,technical
+A/B Testing,technical
+Regression,technical
+Classification,technical
+Clustering,technical
+Recommendation Systems,technical
+Streamlit,technical
+R,technical
+SAS,technical
+MATLAB,technical
+Data Analysis,technical
+Data Mining,technical
+Web Scraping,technical
+Selenium,technical
+API Development,technical
+Unit Testing,technical
+PyTest,technical
+Logging,technical
+OAuth,technical
+Security,technical
+Encryption,technical
+Cloud Functions,technical
+Serverless,technical
+BigQuery,technical
+Redshift,technical
+Snowflake,technical
+Data Lake,technical
+Apache Beam,technical
+Databricks,technical
+Jupyter,technical
+RESTful Services,technical
+Communication,soft
+Teamwork,soft
+Leadership,soft
+Problem Solving,soft
+Critical Thinking,soft
+Time Management,soft
+Adaptability,soft
+Creativity,soft
+Stakeholder Management,soft
+Presentation,soft
+Collaboration,soft
+Decision Making,soft
+Mentoring,soft
+Conflict Resolution,soft
+Negotiation,soft
+Empathy,soft
+Customer Focus,soft
+Attention to Detail,soft
+Ownership,soft
+Analytical Thinking,soft
+Strategic Thinking,soft
+Documentation,soft
+Requirements Gathering,soft
+Cross Functional Collaboration,soft

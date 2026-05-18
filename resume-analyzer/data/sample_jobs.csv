@@ -1,0 +1,8 @@
+job_title,job_description
+Data Scientist,"Build predictive models using Python, pandas, scikit-learn, and SQL. Experience with feature engineering, A/B testing, and data visualization using Plotly or Tableau. Strong statistics and communication skills required."
+ML Engineer,"Design and deploy machine learning systems with Python, TensorFlow, PyTorch, and MLOps tools. Experience with Docker, Kubernetes, and CI/CD pipelines. Work closely with data scientists to productionize models."
+Data Analyst,"Analyze business data using SQL, Excel, and Power BI. Create dashboards, define KPIs, and collaborate with stakeholders to deliver insights. Strong attention to detail and analytical thinking needed."
+Software Engineer,"Develop scalable backend services with Java or Python, REST APIs, microservices, and cloud platforms (AWS/Azure). Experience with Git, CI/CD, and unit testing. Strong problem solving skills required."
+AI Researcher,"Research and prototype NLP and deep learning models using PyTorch, Transformers, and Hugging Face. Publish findings, run experiments, and collaborate with cross functional teams."
+NLP Engineer,"Build NLP pipelines for text classification, entity extraction, and search. Strong Python, spaCy, and scikit-learn skills. Experience deploying models via APIs and monitoring performance."
+Business Analyst,"Gather requirements, map processes, and translate business needs into analytical solutions. Use SQL, Excel, and presentation skills to communicate insights to stakeholders."

@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Resume Analyzer",
+			"type": "shell",
+			"command": "/home/glitchidey/Desktop/mini_aiml/.venv/bin/python",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"resume-analyzer/app.py",
+				"--server.headless=true",
+				"--browser.gatherUsageStats=false"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "test"
+		}
+	]
+}
